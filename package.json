@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/olliedirker/contact-card/issues"
   },
-  "homepage": "https://github.com/olliedirker/contact-card#readme"
+  "homepage": "https://github.com/olliedirker/contact-card#readme",
+  "dependencies": {
+    "concurrently": "^7.4.0"
+  }
 }
